@@ -109,7 +109,7 @@ export function Terminal({ project }: ProjectProps) {
       }
 
       let currentArgs = "";
-      for (const char of " -jar paper.jar") {
+      for (const char of " -jar candlemc.jar") {
         currentArgs += char;
         setArgs(currentArgs);
         await sleep(getNaturalDelay());
