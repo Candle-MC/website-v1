@@ -18,6 +18,7 @@ const Home: NextPage<ProjectProps> = ({ project }) => {
   const { data: playerData } = useBstatsPlayers();
 
   return (
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="ecbb68e3-93cf-4814-98d6-4875f166c210"></script>
     <>
       <SEO
         title="Home"
