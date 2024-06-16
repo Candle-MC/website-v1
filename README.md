@@ -1,4 +1,4 @@
-# papermc.io
+# candle-mc.xyz
 
 ## Development
 
