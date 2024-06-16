@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Image from "next/image";
-
+import Email from "@/assets/icons/fontawesome/envelope-solid.svg"
 import teams from "@/assets/data/team.json";
 import DiscordIcon from "@/assets/icons/fontawesome/discord-brands.svg";
 import GitHubIcon from "@/assets/icons/fontawesome/github-brands.svg";
